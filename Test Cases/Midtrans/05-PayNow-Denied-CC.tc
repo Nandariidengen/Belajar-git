@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05-PayNow-Denied-CC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79fbf196-6e8b-4aae-8293-798c4036ab82</testCaseGuid>
+   <variable>
+      <defaultValue>'4911 1111 1111\r\n1113'</defaultValue>
+      <description></description>
+      <id>c3b57efa-30e3-4977-9ff3-9e3cf97290ab</id>
+      <masked>false</masked>
+      <name>denied_cc</name>
+   </variable>
+</TestCaseEntity>

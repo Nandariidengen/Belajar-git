@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Positive-MidTrans</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e09c3b20-a90a-4d08-a956-5a5f9ca63fee</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demo.midtrans.com/'</defaultValue>
+      <description></description>
+      <id>e8ee41ab-fa17-4937-8b9d-06d804912e5f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

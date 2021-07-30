@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM-PC-EmployeeId-AddEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d3e4c34-4125-4743-b41e-e9c9965fc9d8</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\user\\\\Downloads\\\\foto.png'</defaultValue>
+      <description></description>
+      <id>d5fd9eff-de62-469e-999c-ddb0e96aebb5</id>
+      <masked>false</masked>
+      <name>foto</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OSP-LoginNegativeCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fed5b71-ada2-4ab2-8045-82b19680eddc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3911a312-c819-408f-ae55-a3ddecc38d7b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79f1e05a-0662-4a54-a6b7-cd6b30961236</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c3a9e7b-8051-4656-ac6e-185cf49e014a</id>
+      <masked>false</masked>
+      <name>ExpectedResult</name>
+   </variable>
+</TestCaseEntity>

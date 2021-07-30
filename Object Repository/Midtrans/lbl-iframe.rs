@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl-iframe</name>
+   <tag></tag>
+   <elementGuidId>1ed95e24-6f5e-4f8e-ad3c-ea6c90827d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#snap-midtrans</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@id='snap-midtrans']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://app.sandbox.midtrans.com/snap/v1/pay?origin_host=https://demo.midtrans.com&amp;digest=0280c5718054d18ca94d2c2178d165cb5662c80689528c9c7518fef2d579d1b9&amp;client_key=VT-client-yrHf-c8Sxr-ck8tx#/' and @id = 'snap-midtrans' and @name = 'popup_1627008341917']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://app.sandbox.midtrans.com/snap/v1/pay?origin_host=https://demo.midtrans.com&amp;digest=0280c5718054d18ca94d2c2178d165cb5662c80689528c9c7518fef2d579d1b9&amp;client_key=VT-client-yrHf-c8Sxr-ck8tx#/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>snap-midtrans</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>popup_1627008341917</value>
+   </webElementProperties>
+</WebElementEntity>

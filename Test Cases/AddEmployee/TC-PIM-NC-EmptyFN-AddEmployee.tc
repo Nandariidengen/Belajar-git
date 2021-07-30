@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM-NC-EmptyFN-AddEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c303188b-16aa-42f8-a8e7-a89b4287b373</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\user\\\\Downloads\\\\foto.png'</defaultValue>
+      <description></description>
+      <id>cc3f3133-95d4-440e-bb78-e6a593455753</id>
+      <masked>false</masked>
+      <name>foto</name>
+   </variable>
+</TestCaseEntity>

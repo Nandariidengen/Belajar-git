@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PIM-NC-ChoosePhoto-AddEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db973f4d-7dc2-4adf-ad33-1eadbac3ba95</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\user\\\\Downloads\\\\Selenium_Course_Content.ppt'</defaultValue>
+      <description></description>
+      <id>846f1679-1b8f-40be-9197-3ec993ce3698</id>
+      <masked>false</masked>
+      <name>ppt</name>
+   </variable>
+</TestCaseEntity>

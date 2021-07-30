@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SwitchCase_Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc4f7471-1123-4080-89c0-2c127011e87f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29da7104-ae03-4469-a440-36bda6064473</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f75fbafe-0225-4d40-a4c1-759e20a9b329</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
