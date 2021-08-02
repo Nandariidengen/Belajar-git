@@ -57,5 +57,3 @@ WebUI.verifyElementClickable(findTestObject('Midtrans/btn-paynow'))
 
 WebUI.click(findTestObject('Midtrans/btn-paynow'))
 
-WebUI.callTestCase(findTestCase('Midtrans/06-Issuing Bank'), [:], FailureHandling.STOP_ON_FAILURE)
-

@@ -31,8 +31,3 @@ WebUI.verifyElementVisible(findTestObject('Midtrans/lbl_verifyTitle'))
 
 WebUI.verifyElementVisible(findTestObject('Midtrans/lbl_verifyPrice'))
 
-WebUI.callTestCase(findTestCase('Midtrans/02-Shopping Cart'), [('verify_thead') : 'thead', ('actualTotal') : 'amount', ('expectedTotal') : 'amount'
-        , ('product') : 'th:nth-child(1)', ('qty') : 'th:nth-child(2)', ('amountRp') : 'tr:nth-child(1) > .amount', ('midtranspillow') : '1'
-        , ('xqty') : 'td', ('total') : '1', ('titleAamount') : '.text-amount-title', ('textRp') : 'text-amount-rp', ('textAmount') : 'text-amount-amount'
-        , ('orderid') : 'order-id-optional'], FailureHandling.STOP_ON_FAILURE)
-
